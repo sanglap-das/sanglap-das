@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sanglap-das
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Unsupervised Machine Learning Algorithms
+- 📫My Email ID - sanglap.das77@gmail.com
+- 🖇️LinkedIn Profile Link : https://www.linkedin.com/in/sanglap-das-0434b81b7/
+- 😄 Pronouns: He/Him
